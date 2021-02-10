@@ -1,4 +1,5 @@
 # D & G Healthy.
+![D   C healthy](https://user-images.githubusercontent.com/78754192/107547314-4e23bd00-6b9b-11eb-898a-e50e6e83b8f8.png)
 
 ## Objetivos:
 ### General: 
@@ -10,6 +11,7 @@
 #### *Realizar control de calidad de nuestro producto por medio de encuestas a los usuarios que ingresen a este.
 
 #### *Garantizar el inventario para que no haya perdidas de los productos que ingresen.
+
 
 
 
