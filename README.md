@@ -12,6 +12,16 @@
 
 #### *Garantizar el inventario para que no haya perdidas de los productos que ingresen.
 
+## Planteamiento del problema:
+
+### *Falta de recursos:
+
+### *Posibles incovenientes en el grupo de trabajo:
+
+### *Pandemia (Covid 19):
+
+### *Falta de colaboración con la empresa: 
+
 
 
 
