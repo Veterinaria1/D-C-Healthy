@@ -15,13 +15,13 @@
 ## Planteamiento del problema:
 
 ### *Falta de recursos:
-
+### ![Recursos](https://user-images.githubusercontent.com/78754192/107649104-1bd19880-6c4b-11eb-8533-58d1ab9a2d3f.jpg)
 ### *Posibles incovenientes en el grupo de trabajo:
-
+### * ![GRUPO](https://user-images.githubusercontent.com/78754192/107649100-1a07d500-6c4b-11eb-990a-467e42ddf6c3.jpg)
 ### *Pandemia (Covid 19):
-
+### *![COVI](https://user-images.githubusercontent.com/78754192/107649105-1d02c580-6c4b-11eb-997b-8c6b89c0ddba.jpg)
 ### *Falta de colaboración con la empresa: 
-
+### *![EMPRESA](https://user-images.githubusercontent.com/78754192/107649079-13795d80-6c4b-11eb-81d2-e8facd92d8c5.jpg)
 
 
 
