@@ -23,5 +23,11 @@
 ### *Falta de colaboración con la empresa: 
 ### *![EMPRESA](https://user-images.githubusercontent.com/78754192/107649079-13795d80-6c4b-11eb-81d2-e8facd92d8c5.jpg)
 
+## Justificacion 
+### *Este proyecto se realiza con el propósito de mejorar y actualizar los métodos de la empresa para divulgar y ofrecer sus productos.
+### *El proyecto beneficiará a nuestro cliente en los siguientes puntos.
 
-
+### *Eficiencia en la difusión de sus productos.
+### *Facilidad para poder actualizar la información en el catálogo online.
+### *Accesibilidad a la información de la empresa y sus productos desde cualquier lugar con conexión a internet.
+### *Reducir los contagios al hacer que el cliente tenga la oportunidad de ver el catálogo de productos.
